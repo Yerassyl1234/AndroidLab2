@@ -1,1 +1,1 @@
-https://github.com/Yerassyl1234/AndroidLab2/blob/master/assets/video5463292670749207887.mp4
+https://github.com/user-attachments/assets/43730296-759c-408a-9c13-1947bafb0967
