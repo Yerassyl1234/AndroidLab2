@@ -44,5 +44,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-    implementation(project(":chatlibrary"))
+    implementation("com.github.Yerassyl1234:chatlibrary:1.0.0")
 }
